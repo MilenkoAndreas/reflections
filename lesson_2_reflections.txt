@@ -10,3 +10,6 @@ Comparing it with the last commit using the comand git diff --staged.
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 When you want to take a different approach in your project without affecting the main goal.
+
+How do the diagrams help you visualize the branch structure?
+It allows you to understand the reachability of the branches.
